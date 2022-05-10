@@ -48,7 +48,7 @@
     </div> 
 
 
-<!------- fetured categories--------->
+
     <div class="categories">
         <div class="small-container">
             <div class="row">
@@ -64,13 +64,12 @@
                 <div class="col-3"></div>
     
     
-            </div>
+		</div>
 
         </div>
        
     </div>
 
-<!---------- featured loans---------->
    <div class="small-container">
        <h2>Members loans</h2>
        <div class="row">
